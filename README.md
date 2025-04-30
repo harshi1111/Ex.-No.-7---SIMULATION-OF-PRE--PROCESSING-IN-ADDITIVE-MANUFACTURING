@@ -1,5 +1,8 @@
-# Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No. 6.1 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+
+### Name:Harshitha V
+### Register Number:212223230074
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,21 +42,12 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![image](https://github.com/dakshasubbaian/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/112880924/e25c9825-810c-4cfc-8339-b0f49c810537)
 
-![image](https://github.com/dakshasubbaian/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/112880924/8be99874-13ef-4cad-82c9-cf4ab44b39d8)
-
-![image](https://github.com/dakshasubbaian/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/112880924/c79dcde8-b1b5-4965-80df-e36174bccadf)
+![image](https://github.com/user-attachments/assets/1462a624-1514-4777-bcad-7a251dd7bfec)
 
 
 
-## Output:
 
-![image](https://github.com/user-attachments/assets/07e5c272-5ba2-48ef-a0f9-a1c09f90cc14)
-
-
-### Name:Harshitha V
-### Register Number:212223230074
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
