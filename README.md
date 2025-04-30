@@ -49,6 +49,9 @@
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/07e5c272-5ba2-48ef-a0f9-a1c09f90cc14)
+
+
 ### Name:Harshitha V
 ### Register Number:212223230074
 
